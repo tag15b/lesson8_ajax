@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 17, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Teonna Glispy)
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tag15b.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned to put together a movie information search engine. I was so fascinated by structuring a website that gives me information on my favorite movies.
+2. I learned how to added dom and json elements to the website to set up the movie title, plot, release date, popularity date, language, and poster. 
+3. I also learned how to add the proper elements to create the Seminol Movie Connection and make sure every element works proper so my website is fully functional.
